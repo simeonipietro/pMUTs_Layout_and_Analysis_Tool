@@ -1,3 +1,5 @@
 # pMUTs_Layout_and_Analysis_Tool
 
-Library to calculate equivalent parameters of individual pMUTs and generate layouts of pMUTs arrays
+This is a python tool for calculating equivalent parameters of individual pMUTs and generating layouts of pMUTs arrays.
+
+The capabilities of this project are shown in the jupyter notebook Tutorial.ipynb. 
